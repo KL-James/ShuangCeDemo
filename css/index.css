@@ -27,7 +27,7 @@ body {
 }
 .top .top-menu > ul > li{
     float: left;
-    width: 193px;
+    width: 165px;
     position: relative;
     display: block;
 }
@@ -50,7 +50,7 @@ body {
     padding: 0px 15px;
     border-right: 1px solid #6BACD2;
 }
-.top .top-menu > li:hover{
+.top .top-menu > ul > li:hover{
     background-color: rgb(35, 91, 143);
 }
 .gzfc{
