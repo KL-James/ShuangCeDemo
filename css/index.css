@@ -25,20 +25,20 @@ body {
     background: url(../images/mainnav.png) no-repeat top center;
     margin-top: 5%;
 }
-.top .top-menu > li{
+.top .top-menu > ul > li{
     float: left;
     width: 193px;
     position: relative;
     display: block;
 }
-/* .top .top-menu .nav-menu {
+.nav-menu {
     margin: 0px auto;
     text-align: center;
-    width: 980px;
+    width: 1200px;
     padding-left: 0;
     list-style: none;
-} */
-.top .top-menu > li > a{
+}
+.top .top-menu > ul > li > a{
     text-align: center;
     position: relative;
     display: block;
@@ -57,11 +57,13 @@ body {
     float: left;
     width: 30%;
     margin-left: 1%;
+    margin-top: 3%;
 }
 .zcfg{
     float: left;
     width: 30%;
     margin-left: 1%;
+    margin-top: 3%;
 }
 .gzfc-title{
     width: 100%;
